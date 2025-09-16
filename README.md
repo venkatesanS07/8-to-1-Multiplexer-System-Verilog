@@ -116,6 +116,9 @@ module mux8to1_tb;
 
 endmodule
 ```
+
+---
+
 ### Simulation Output
 
 The simulation is carried out using ModelSim 2020.1.
@@ -123,6 +126,9 @@ The simulation is carried out using ModelSim 2020.1.
 Waveforms will display the selected input line being passed to the output according to the select signals.
 
 (Insert waveform screenshot after running simulation in ModelSim)
+
+
+---
 
 ### Result
 
