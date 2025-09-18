@@ -148,13 +148,14 @@ endmodule
 
 ### Simulation Output
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-16 094257" src="https://github.com/user-attachments/assets/0ec38a20-752d-4148-9fc2-c5c574ed274c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40355bb9-0cec-4362-b3a3-c57daa818aea" />
+
 
 
 
 Waveforms will display the selected input line being passed to the output according to the select signals.
 
-(Insert waveform screenshot after running simulation in ModelSim)
+
 
 
 ---
